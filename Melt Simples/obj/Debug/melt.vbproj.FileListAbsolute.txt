@@ -1,0 +1,19 @@
+X:\Sources\simple melt vb.net\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+X:\Sources\simple melt vb.net\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+X:\Sources\simple melt vb.net\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+X:\Sources\simple melt vb.net\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+X:\Sources\simple melt vb.net\Melt Simples\bin\Debug\WindowsApplication1.exe.config
+X:\Sources\simple melt vb.net\Melt Simples\obj\Debug\WindowsApplication1.exe
+X:\Sources\simple melt vb.net\Melt Simples\obj\Debug\WindowsApplication1.xml
+X:\Sources\simple melt vb.net\Melt Simples\obj\Debug\WindowsApplication1.pdb
+X:\Sources\simple melt vb.net\Melt Simples\bin\Debug\WindowsApplication1.exe
+X:\Sources\simple melt vb.net\Melt Simples\bin\Debug\WindowsApplication1.pdb
+X:\Sources\simple melt vb.net\Melt Simples\bin\Debug\WindowsApplication1.xml
+X:\Sources\simple melt vb.net\Melt Simples\obj\Debug\melt.vbprojResolveAssemblyReference.cache
+X:\Sources\simple melt vb.net\Melt Simples\obj\Debug\WindowsApplication1.Form1.resources
+X:\Sources\simple melt vb.net\Melt Simples\obj\Debug\WindowsApplication1.Resources.resources
+X:\Sources\simple melt vb.net\Melt Simples\obj\Debug\melt.vbproj.GenerateResource.Cache
+C:\Users\Marley\Desktop\simple melt vb.net\Melt Simples\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Marley\Desktop\simple melt vb.net\Melt Simples\obj\Debug\WindowsApplication1.exe
+C:\Users\Marley\Desktop\simple melt vb.net\Melt Simples\obj\Debug\WindowsApplication1.xml
+C:\Users\Marley\Desktop\simple melt vb.net\Melt Simples\obj\Debug\WindowsApplication1.pdb

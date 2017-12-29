@@ -1,0 +1,19 @@
+C:\Users\Marley\Desktop\x\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Marley\Desktop\x\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Marley\Desktop\x\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Marley\Desktop\x\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Marley\Desktop\x\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Marley\Desktop\x\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Marley\Desktop\x\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Marley\Desktop\x\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Marley\Desktop\x\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Marley\Desktop\x\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Marley\Desktop\x\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Marley\Desktop\simple melt\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Marley\Desktop\simple melt\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Marley\Desktop\simple melt\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Marley\Desktop\simple melt\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+X:\Sources\simple melt vb.net\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+X:\Sources\simple melt vb.net\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+X:\Sources\simple melt vb.net\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+X:\Sources\simple melt vb.net\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
